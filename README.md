@@ -57,14 +57,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DerbaliAdem/DerbaliAdem/output/snake.svg" alt="Snake animation" />
+<img align="right" height="100" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DerbaliAdem/DerbaliAdem/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DerbaliAdem/DerbaliAdem/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DerbaliAdem/DerbaliAdem/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
